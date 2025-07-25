@@ -27,7 +27,7 @@ Hola! Soy Maria, una apasionada por la inteligencia artificial con enfoque en el
 
 ## 📫 Contacto
 
-- ✉️ maria.hernandez@email.com  
+- ✉️ linzhdz@gmail.com 
 - 💻 [LinkedIn]https://www.linkedin.com/in/mar%C3%ADa-hern%C3%A1ndez-a83645270/ 
 - 💼 Siempre abierta a colaborar en proyectos de impacto social y tecnológico.
 
