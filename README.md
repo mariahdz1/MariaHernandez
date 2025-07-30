@@ -20,8 +20,8 @@ Hola! Soy Maria, una apasionada por la inteligencia artificial con enfoque en el
 - 🧠 [Red Neuronal desde Cero con NumPy](https://github.com/tuusuario/red-neuronal-numpy)  
   Implementación básica de red neuronal sin librerías externas.
 
-- 📊 [Análisis de Congestión Hospitalaria](https://github.com/tuusuario/congestion-hospitalaria-colombia)  
-  Proyecto de análisis de datos reales del sistema de salud en Colombia. Iniciando por disponibilidad de hispitales
+- 📊 [Análisis de Congestión Hospitalaria](https://github.com/tuusuario/congestion-hospitalaria-colombia)  (Pronto app)
+  Proyecto de análisis de datos reales del sistema de salud en Colombia. Iniciando por disponibilidad de hosspitales
 
 ---
 
