@@ -21,7 +21,7 @@ Hola! Soy Maria, una apasionada por la inteligencia artificial con enfoque en el
   Implementación básica de red neuronal sin librerías externas.
 
 - 📊 [Análisis de Congestión Hospitalaria](https://github.com/tuusuario/congestion-hospitalaria-colombia)  
-  Proyecto de análisis de datos reales del sistema de salud en Colombia.
+  Proyecto de análisis de datos reales del sistema de salud en Colombia. Iniciando por disponibilidad de hispitales
 
 ---
 
